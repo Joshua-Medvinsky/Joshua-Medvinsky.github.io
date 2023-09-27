@@ -5,11 +5,3 @@ Welcome to my portfolio! I'm Joshua Medvinsky, a passionate computer science gra
 Feel free to explore my portfolio and connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-medvinsky/) or check out my code on [GitHub](https://github.com/Joshua-Medvinsky). If you're interested in collaborating or have any questions, don't hesitate to reach out!
 
 
-## CryptoSend
-
-https://crypto-send.vercel.app/ 
-
-Work in progress
-
-Desiging a front-end web3 site which allows users to send erc20 tokens to one another
-
